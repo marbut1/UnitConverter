@@ -1,0 +1,57 @@
+#inner-div {
+    background-color: blueviolet;
+    width: 500px;
+    height: 200px;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+   
+}
+
+#outer-div {
+    border: 6px outset rgb(200, 200, 204);
+    background-color: white;
+    width: 500px;
+    height: 600px;
+    border-radius: 20px;
+    border-style: double;
+}
+
+#input-el {
+    border: 1px solid white;
+    background-color: blueviolet;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    width: 60px;
+    height: 40px;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+
+#input-btn {
+    display: block;
+    border: 1px solid white;
+    width:60px;
+    margin-left: 44%;
+    margin-top: 20px;
+    border-radius: 3px;
+ }
+
+
+ .paragraph {
+    margin-top: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    background-color: lightgray ;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-top: 20px;
+    height: 60px;
+    border-radius: 10px
+ }
